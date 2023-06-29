@@ -15,7 +15,7 @@
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellycruz&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellycruz&layout=compact)
 
 Estou comprometida com meu crescimento pessoal, dedicando tempo aos estudos, explorando novas tecnologias e aprimorando minhas habilidades em programação. Acredito que esse constante aprendizado é essencial para alcançar minha tão sonhada primeira vaga na área.
 
