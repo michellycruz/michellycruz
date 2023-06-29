@@ -15,12 +15,6 @@
 </div>
 <br/>
 
-## Email para contato
+## Contato
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](michxcrz@gmail.com)
-  
-  <ul>
-    <li>
-      michxcrz@gmail.com
-    </li>
-  </ul>
