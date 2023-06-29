@@ -1,4 +1,4 @@
-### Olá, me chamo Michelly Cruz 😸
+### Olá, me chamo Michelly Cruz
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelly-cruz-de-souza-996766206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michxcrz00/)
@@ -14,10 +14,6 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellycruz&layout=compact)
-
-Estou comprometida com meu crescimento pessoal, dedicando tempo aos estudos, explorando novas tecnologias e aprimorando minhas habilidades em programação. Acredito que esse constante aprendizado é essencial para alcançar minha tão sonhada primeira vaga na área.
 
 ## Email para contato
 
