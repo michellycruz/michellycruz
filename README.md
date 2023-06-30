@@ -1,23 +1,21 @@
-### Olá, me chamo Michelly Cruz
-
+## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelly-cruz-de-souza-996766206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michxcrz00/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](michxcrz@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](michxcrz)
 
-![Michelly Cruz GitHub stats](https://github-readme-stats.vercel.app/api?username=michellycruz&show_icons=true&theme=tokyonight)
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=michellycruz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=michellycruz&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=michellycruz&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Tecnologias
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=apprentice&no-frame=false&no-bg=true&margin-w=4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellycruz&layout=compact)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=michellycruz&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
-<div style="display: inline_block"> <br/>
-  <img align="center" alt="Mich-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mich-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mich-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mysql" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div>
-<br/>
-          
-## Contato
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](michxcrz@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](michxcrz)
+---
+[![](https://visitcount.itsvg.in/api?id=michellycruz&icon=6&color=6)](https://visitcount.itsvg.in)
