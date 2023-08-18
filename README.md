@@ -28,4 +28,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=michellycruz&icon=6&color=6)](https://visitcount.itsvg.in)
 
-<!-- HMMM LADRÃOZINHO DE README, eu fiz esse readme nesse site aqui https://gprm.itsvg.in   | DE NADA KKKKK-->
+<!-- HMMM LADRÃOZINHO DE README, eu fiz esse readme nesse site aqui | https://gprm.itsvg.in  |-->
+<!-- os icons eu peguei nesse outro site | https://devicon.dev |-->
