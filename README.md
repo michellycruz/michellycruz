@@ -33,7 +33,7 @@
   </tr>
 </table>
 
-<img src="https://static.vecteezy.com/system/resources/previews/026/548/160/non_2x/galaxy-overlay-space-free-png.png" min-width="400px" max-width="800px" width="800px" align="center">
+<img src="https://static.vecteezy.com/system/resources/previews/026/548/160/non_2x/galaxy-overlay-space-free-png.png" min-width="400px" max-width="600px" width="600px" align="center">
 
 # GitHub Stats:
 
