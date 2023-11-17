@@ -55,6 +55,3 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- HMMM LADRÃOZINHO DE README, eu fiz esse readme nesse site aqui | https://gprm.itsvg.in  |-->
-<!-- os icons eu peguei nesse outro site | https://devicon.dev |-->
