@@ -10,20 +10,20 @@
 
   ## GitHub Stats:
   
-<table height="300px">
+<table>
   <tr>
     <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=michellycruz&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-        alt="Github stats"
+        alt="Github stats" height="250px"
       />
     </td>
     <td>
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=michellycruz&theme=radical&hide_border=true"
-        alt="Github stats"
+        alt="Github stats" height="250px"
       />
     </td>
     <td>
@@ -31,7 +31,7 @@
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellycruz&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
+        alt="Github stats" height="250px"
       />
     </td>
   </tr>
