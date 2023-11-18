@@ -10,7 +10,7 @@
 
   ## GitHub Stats:
   
-<table>
+<table height="300px">
   <tr>
     <td>
       <img
