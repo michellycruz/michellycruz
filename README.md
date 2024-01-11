@@ -43,6 +43,27 @@
   </tr>
 </table>
 
+## Projects
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300"'>
+
+<ul>
+  <li>
+    <a href="#">teste</a>
+  </li>
+  <li>
+    <a href="#">teste</a>
+  </li>
+  <li>
+    <a href="#">teste</a>
+  </li>
+  <li>
+    <a href="#">teste</a>
+  </li>
+  <li>
+    <a href="#">teste</a>
+  </li>
+</ul>
+
 <img src="https://static.vecteezy.com/system/resources/previews/026/548/160/non_2x/galaxy-overlay-space-free-png.png" min-width="400px" max-width="600px" width="600px" align="center">
 
 
@@ -68,7 +89,7 @@
       <img src="https://img.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/>
     </a>
   </p>
-  
+
   
   [![](https://visitcount.itsvg.in/api?id=michellycruz&icon=5&color=11)](https://visitcount.itsvg.in)
 
