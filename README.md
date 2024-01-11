@@ -64,12 +64,11 @@
   </li>
 </ul>
 
-<img src="https://static.vecteezy.com/system/resources/previews/026/548/160/non_2x/galaxy-overlay-space-free-png.png" min-width="400px" max-width="600px" width="600px" align="center">
-
 
   ## GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-  
+
+  <img src="https://static.vecteezy.com/system/resources/previews/026/548/160/non_2x/galaxy-overlay-space-free-png.png" min-width="400px" max-width="600px" width="600px" align="center">
   
   ## SOCIALS:
   <p align="center">
