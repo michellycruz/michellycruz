@@ -43,8 +43,9 @@
   </tr>
 </table>
 
+<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='150"'>
+
 ## Projects
-<img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='300"'>
 
 <ul>
   <li>
