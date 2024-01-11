@@ -51,12 +51,22 @@
   
   
   ## SOCIALS:
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michxcrz/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michxcrz00/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](michxcrz@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](michxcrz)
+  <p align="center">
+    <a href="https://www.linkedin.com/in/michxcrz/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/michxcrz00/" target="_blank">
+      <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+    </a>
+    <a href="michxcrz" target="_blank">
+      <img src="https://img.shields.io/badge/discord-%23E4405F.svg?&style=for-the-badge&logo=discord&logoColor=white&color=071A2C" alt="Discord"/>
+    </a>
+    <a href="michxcrz@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
+    </a>
+  </p>
   
-  ---
+  
   [![](https://visitcount.itsvg.in/api?id=michellycruz&icon=5&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
