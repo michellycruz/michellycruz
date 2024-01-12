@@ -84,7 +84,9 @@
   ## GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div width="100%" display="flex" align="center">
   <img src="https://i.pinimg.com/originals/bb/d1/b0/bbd1b00158eb5ecc1bbb021b6b80a46e.gif" min-width="400px" max-width="600px" width="600px" align="center">
+</div>
   
   ## SOCIALS:
   <p align="center">
