@@ -1,4 +1,4 @@
-![image](https://github.com/michellycruz/michellycruz/assets/125368412/ce777411-bbed-464c-9065-ae43d83a520e)### Oi! Me chamo Michelly Cruz
+### Oi! Me chamo Michelly Cruz
 
 
 <img src="https://64.media.tumblr.com/2bcd5f1584814fb90fb001cf5519a27f/tumblr_oqqshj6MUC1vjxr9zo1_500.gif" min-width="100px" max-width="100px" width="100px" align="right">
@@ -79,30 +79,20 @@
   </div>
   <hr>
   <div border='1px solid black' width='160px' padding='10px'>
-    <h3>CONTROLE RGB</h3>
-    <a href="https://michellycruz.github.io/jogos-e-projetos/rgb-color-slider/index.html"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842548665684049/WhatsApp_Image_2024-01-13_at_18.01.25.jpeg?ex=65b57629&is=65a30129&hm=98d2c295fad5bc40de2d1381c0759e7c6cea84f5d3b97dc9eeeb12d8b2f3f06c&' width='250'></a>
-  </div>
-  <hr>
-  <div border='1px solid black' width='160px' padding='10px'>
     <h3>PETLIFE</h3>
     <a href="https://michellycruz.github.io/jogos-e-projetos/petlife/index.html"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842565518413915/WhatsApp_Image_2024-01-13_at_18.02.36.jpeg?ex=65b5762d&is=65a3012d&hm=cdc799467b9afeca661c223ce0dd3466652cef33e2e0ab88cf0f1b1bdbceb79e&' width='250'></a>
   </div>
-  <div border='1px solid black' width='160px' padding='10px'>
-    <h3>POKEMON (IFRAME)</h3>
-    <a href="https://michellycruz.github.io/jogos-e-projetos/cards-pokemon/index.html"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842601715249243/WhatsApp_Image_2024-01-13_at_18.04.16.jpeg?ex=65b57635&is=65a30135&hm=c844508cc65b7a3f9142d031bb8738baf22125422a9f57ef59bf9137ba5d7ab0&' width='250'></a>
-  </div>
+  <hr>
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>CARRINHO DE COMPRAS</h3>
     <a href="https://carrinho-de-compras-delta.vercel.app/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842621638201414/WhatsApp_Image_2024-01-13_at_18.05.49.jpeg?ex=65b5763a&is=65a3013a&hm=f9ea8b373355cf741aec4992655c09d8b460436dbb859a546625c97b206909f0&' width='250'></a>
   </div>
+  <hr>
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>PIANO</h3>
     <a href="https://michellycruz.github.io/piano/index.html"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842639027765318/WhatsApp_Image_2024-01-13_at_18.06.54.jpeg?ex=65b5763e&is=65a3013e&hm=38b59a77b285f33f651bc4c95ec86fe8ecc836ab75b923a6e658c271e3b4d1f1&' width='250'></a>
   </div>
-  <div border='1px solid black' width='160px' padding='10px'>
-    <h3>POKEMON (GRID)</h3>
-    <a href="https://michellycruz.github.io/Bootstrap/06_cards/index.html#"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842655322656819/WhatsApp_Image_2024-01-13_at_18.08.03.jpeg?ex=65b57642&is=65a30142&hm=2ca923cdc51cafbcf39a161e3c58505a3e8c431615728beffe5029ad39108213&' width='250'></a>
-  </div>
+  <hr>
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>ONEBITSPORTS</h3>
     <a href="https://michellycruz.github.io/css-moderno-onebitcode/aulas_css/19_exercicio_final_flexbox_grid/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842674230558790/WhatsApp_Image_2024-01-13_at_18.09.32.jpeg?ex=65b57647&is=65a30147&hm=fc206e893455b6d9e1ce0d671362824023f093af48328cddad15e37751999198&' width='250'></a>
