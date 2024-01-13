@@ -46,18 +46,6 @@
 <img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='150"'>
 
 ## Projects
-
-<div width='100%' display='flex' flex-direction='row'>
-  <div border='1px solid black' width='160px' padding='10px' cursor='pointer'>
-    <h3>CORDEL MODERNO</h3>
-    <a href="https://michellycruz.github.io/projeto-cordel/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195838211319156799/WhatsApp_Image_2024-01-13_at_17.35.31.jpeg?ex=65b5721f&is=65a2fd1f&hm=93476291b28b9ed1efb700e1a825c910bc6e6b89c35cc51fb74aa1d9e5b3d818&' width='250'></a>
-  </div>
-  <hr>
-  <div border='1px solid black' width='160px' padding='10px'>
-    <h3>ANDROID</h3>
-    <a href="https://michellycruz.github.io/projeto-android/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842450057601105/WhatsApp_Image_2024-01-13_at_17.38.26.jpeg?ex=65b57611&is=65a30111&hm=0c311692a87a2ff180d9ed66ca2747b5308dbae658a69aea2808e9aca541931b&' width='250'></a>
-  </div>
-    <hr>
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>TIC TAC TOE</h3>
     <a href="https://michellycruz.github.io/javascript-onebitcode/projetos/17_tic_tac_toe/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842468361551933/WhatsApp_Image_2024-01-13_at_17.46.55.jpeg?ex=65b57616&is=65a30116&hm=d5ff469bd00f5762e99fbbd4e2ff2054eb5440bcb66acf73ab8b5a803fdb33fb&' width='250'></a>
@@ -96,6 +84,17 @@
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>ONEBITSPORTS</h3>
     <a href="https://michellycruz.github.io/css-moderno-onebitcode/aulas_css/19_exercicio_final_flexbox_grid/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842674230558790/WhatsApp_Image_2024-01-13_at_18.09.32.jpeg?ex=65b57647&is=65a30147&hm=fc206e893455b6d9e1ce0d671362824023f093af48328cddad15e37751999198&' width='250'></a>
+  </div>
+      <hr>
+<div width='100%' display='flex' flex-direction='row'>
+  <div border='1px solid black' width='160px' padding='10px' cursor='pointer'>
+    <h3>CORDEL MODERNO</h3>
+    <a href="https://michellycruz.github.io/projeto-cordel/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195838211319156799/WhatsApp_Image_2024-01-13_at_17.35.31.jpeg?ex=65b5721f&is=65a2fd1f&hm=93476291b28b9ed1efb700e1a825c910bc6e6b89c35cc51fb74aa1d9e5b3d818&' width='250'></a>
+  </div>
+  <hr>
+  <div border='1px solid black' width='160px' padding='10px'>
+    <h3>ANDROID</h3>
+    <a href="https://michellycruz.github.io/projeto-android/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842450057601105/WhatsApp_Image_2024-01-13_at_17.38.26.jpeg?ex=65b57611&is=65a30111&hm=0c311692a87a2ff180d9ed66ca2747b5308dbae658a69aea2808e9aca541931b&' width='250'></a>
   </div>
 </div>
 
