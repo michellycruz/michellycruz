@@ -120,7 +120,7 @@
     <a href="michxcrz@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
     </a>
-    <a href="https://wa.me/55229987654321" target="_blank">
+    <a href="https://wa.me/5527996942003" target="_blank">
       <img src="https://img.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/>
     </a>
   </p>
