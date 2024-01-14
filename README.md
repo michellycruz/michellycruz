@@ -42,10 +42,10 @@
     </td>
   </tr>
 </table>
+  <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='150"'> 
+<hr>
 
-<!-- <img align='right' src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='150"'> -->
-
-## Projects
+## Projects:
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>TIC TAC TOE</h3>
     <a href="https://michellycruz.github.io/javascript-onebitcode/projetos/17_tic_tac_toe/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842468361551933/WhatsApp_Image_2024-01-13_at_17.46.55.jpeg?ex=65b57616&is=65a30116&hm=d5ff469bd00f5762e99fbbd4e2ff2054eb5440bcb66acf73ab8b5a803fdb33fb&' width='250'></a>
