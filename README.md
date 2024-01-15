@@ -92,10 +92,10 @@
     <a href="https://michellycruz.github.io/projeto-cordel/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195838211319156799/WhatsApp_Image_2024-01-13_at_17.35.31.jpeg?ex=65b5721f&is=65a2fd1f&hm=93476291b28b9ed1efb700e1a825c910bc6e6b89c35cc51fb74aa1d9e5b3d818&' width='250'></a>
   </div>
   <hr>
-  <!--<div border='1px solid black' width='160px' padding='10px'>
+  <div border='1px solid black' width='160px' padding='10px'>
     <h3>ANDROID</h3>
     <a href="https://michellycruz.github.io/projeto-android/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842450057601105/WhatsApp_Image_2024-01-13_at_17.38.26.jpeg?ex=65b57611&is=65a30111&hm=0c311692a87a2ff180d9ed66ca2747b5308dbae658a69aea2808e9aca541931b&' width='250'></a>
-  </div>-->
+  </div>
 </div>
 
 
