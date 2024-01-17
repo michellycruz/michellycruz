@@ -51,14 +51,6 @@
 
 <hr>
 
-
-  ## GitHub Trophies
-  ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<div width="100%" display="flex" align="center">
-  <img src="https://i.pinimg.com/originals/bb/d1/b0/bbd1b00158eb5ecc1bbb021b6b80a46e.gif" min-width="400px" max-width="600px" width="600px" align="center">
-</div>
-
 ## Projects:
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>TIC TAC TOE</h3>
@@ -110,6 +102,15 @@
     <h3>ANDROID</h3>
     <a href="https://michellycruz.github.io/projeto-android/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842450057601105/WhatsApp_Image_2024-01-13_at_17.38.26.jpeg?ex=65b57611&is=65a30111&hm=0c311692a87a2ff180d9ed66ca2747b5308dbae658a69aea2808e9aca541931b&' width='250'></a>
   </div>
+</div>
+
+<hr>
+
+ ## GitHub Trophies
+  ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<div width="100%" display="flex" align="center">
+  <img src="https://i.pinimg.com/originals/bb/d1/b0/bbd1b00158eb5ecc1bbb021b6b80a46e.gif" min-width="400px" max-width="600px" width="600px" align="center">
 </div>
   
   ## SOCIALS:
