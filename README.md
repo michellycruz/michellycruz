@@ -42,8 +42,15 @@
     </td>
   </tr>
 </table>
-  <img src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png' width='150"'> 
+
 <hr>
+
+<div width="100%" display="flex" align="center">
+  <img src='https://www.cometafiber.com.br/assets/img/hero-img.gif' width='350' align="center"> 
+</div>
+
+<hr>
+
 
   ## GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
