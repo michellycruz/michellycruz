@@ -111,8 +111,14 @@
   <hr>
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>ANDROID</h3>
-    <a href="https://michellycruz.github.io/projeto-android/"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842450057601105/WhatsApp_Image_2024-01-13_at_17.38.26.jpeg?ex=65b57611&is=65a30111&hm=0c311692a87a2ff180d9ed66ca2747b5308dbae658a69aea2808e9aca541931b&' width='250'></a>
+    <a href="https://michellycruz.github.io/projeto-android/index.html"><img src='https://cdn.discordapp.com/attachments/835401919479676948/1195842450057601105/WhatsApp_Image_2024-01-13_at_17.38.26.jpeg?ex=65b57611&is=65a30111&hm=0c311692a87a2ff180d9ed66ca2747b5308dbae658a69aea2808e9aca541931b&' width='250'></a>
     <p>| HTML | CSS | <a href="https://github.com/michellycruz/projeto-android">código</a></p>
+  </div>
+  <div border='1px solid black' width='160px' padding='10px'>
+    <h3>CONVERSOR DE UNIDADES</h3>
+    <a href="https://michellycruz.github.io/projetos_javascript/1_conversor_de_unidades/index.html"><img src='![image](https://github.com/michellycruz/michellycruz/assets/125368412/f4376f96-0953-4fda-ae51-fe4db688a983)
+' width='250'></a>
+    <p>| HTML | CSS | JAVASCRIPT <a href="https://github.com/michellycruz/projetos_javascript/tree/main/1_conversor_de_unidades">código</a></p>
   </div>
 </div>
 
