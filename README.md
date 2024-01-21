@@ -118,7 +118,7 @@
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>CONVERSOR DE UNIDADES</h3>
     <a href="https://michellycruz.github.io/projetos_javascript/1_conversor_de_unidades/index.html"><img src='https://cdn.discordapp.com/attachments/966892428177072162/1198719242971926689/image.png?ex=65bfed4a&is=65ad784a&hm=4b189fa72fecefdeedb35db58b5664c82cf25f4afda82963dd1aa7392ff7228d&' width='250'></a>
-    <p>| HTML | CSS | JAVASCRIPT |<a href="https://github.com/michellycruz/projetos_javascript/tree/main/1_conversor_de_unidades">código</a></p>
+    <p>| HTML | CSS | JAVASCRIPT | <a href="https://github.com/michellycruz/projetos_javascript/tree/main/1_conversor_de_unidades">código</a></p>
   </div>
 </div>
 
