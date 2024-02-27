@@ -156,7 +156,8 @@
     </a>
   </p>
 
-  
-  [![](https://visitcount.itsvg.in/api?id=michellycruz&icon=5&color=11)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=michellycruz&label=Profile%20Views&pretty=false" />
+  </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
