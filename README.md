@@ -136,6 +136,10 @@
 <div width="100%" display="flex" align="center">
   <img src="https://i.pinimg.com/originals/bb/d1/b0/bbd1b00158eb5ecc1bbb021b6b80a46e.gif" min-width="400px" max-width="600px" width="600px" align="center">
 </div>
+
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=michellycruz&label=Profile%20Views&icon=8&pretty=false" />
+ </a>
   
   ## SOCIALS:
   <p align="center">
@@ -155,9 +159,5 @@
       <img src="https://img.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/>
     </a>
   </p>
-
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=michellycruz&label=Profile%20Views&pretty=false" />
-  </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
