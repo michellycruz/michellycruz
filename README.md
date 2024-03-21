@@ -128,6 +128,12 @@
     <a href="https://michellycruz.github.io/projetos_javascript/4_galeria_com_lightbox/index.html">ver projeto -> &#128187</a>
     <p>| HTML | CSS | JAVASCRIPT | <a href="https://github.com/michellycruz/projetos_javascript/tree/main/4_galeria_com_lightbox"> código</a></p>
   </div>
+  <hr>
+    <div border='1px solid black' width='160px' padding='10px'>
+    <h3>GERADOR DE PALETA DE CORES</h3>
+    <a href="https://michellycruz.github.io/projetos_javascript/7_paleta_de_cores/">ver projeto -> &#128187</a>
+    <p>| HTML | CSS | JAVASCRIPT | <a href="https://github.com/michellycruz/projetos_javascript/tree/main/7_paleta_de_cores"> código</a></p>
+  </div>
 </div>
 
 <hr>
