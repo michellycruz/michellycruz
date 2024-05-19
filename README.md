@@ -88,8 +88,8 @@
   <hr>
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>CARRINHO DE COMPRAS</h3>
-    <a href="https://carrinho-de-compras-delta.vercel.app/">ver projeto -> &#128187</a>
-    <p>| HTML | CSS | REACT JS | <a href="https://github.com/michellycruz/carrinho_de_compras"> código</a></p>
+    <a href="">ver projeto -> &#128187</a>
+    <p>| HTML | CSS | REACT JS | <a href=""> código</a></p>
   </div>
   <hr>
   <div border='1px solid black' width='160px' padding='10px'>
