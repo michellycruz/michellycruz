@@ -55,7 +55,9 @@
 
 <hr>
 
-<!--## Projects:
+## Projects (rebuilding):
+
+<!--
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>TIC TAC TOE</h3>
     <a href="https://michellycruz.github.io/javascript-onebitcode/projetos/17_tic_tac_toe/">ver projeto -> &#128187</a>
