@@ -55,7 +55,7 @@
 
 <hr>
 
-## Projects:
+<!--## Projects:
   <div border='1px solid black' width='160px' padding='10px'>
     <h3>TIC TAC TOE</h3>
     <a href="https://michellycruz.github.io/javascript-onebitcode/projetos/17_tic_tac_toe/">ver projeto -> &#128187</a>
@@ -139,7 +139,7 @@
 </div>
 
 <hr>
-
+-->
  ## GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
