@@ -153,6 +153,7 @@
   <img src="https://visitcount.itsvg.in/api?id=michellycruz&label=Profile%20Views&icon=8&pretty=false" />
  </a>
 </p>
+
   ## SOCIALS:
   <p align="center">
     <a href="https://www.linkedin.com/in/michxcrz/" target="_blank">
