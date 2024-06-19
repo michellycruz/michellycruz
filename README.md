@@ -139,7 +139,6 @@
     <p>| HTML | CSS | JAVASCRIPT | <a href="https://github.com/michellycruz/projetos_javascript/tree/main/7_paleta_de_cores"> código</a></p>
   </div>
 </div>
-
 <hr>
 -->
 
