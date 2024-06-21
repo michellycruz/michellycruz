@@ -1,4 +1,4 @@
-### Oi! Me chamo Michelly Cruz
+### Hi, you can call me Mich!!
 
 
 <img src="https://64.media.tumblr.com/2bcd5f1584814fb90fb001cf5519a27f/tumblr_oqqshj6MUC1vjxr9zo1_500.gif" min-width="100px" max-width="100px" width="100px" align="right">
