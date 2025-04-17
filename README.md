@@ -149,12 +149,6 @@
  ## GitHub Trophies
   ![](https://github-profile-trophy.vercel.app/?username=michellycruz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=michellycruz&label=Profile%20Views&icon=8&pretty=false" />
- </a>
-</p>
-
   ## SOCIALS:
   <p align="center">
     <a href="https://www.linkedin.com/in/michxcrz/" target="_blank">
@@ -173,5 +167,9 @@
       <img src="https://img.shields.io/badge/whatsapp-%23E4405F.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="Whatsapp"/>
     </a>
   </p>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=michellycruz.michellycruz&left_color=%238B0000&right_color=%232F4F4F)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
