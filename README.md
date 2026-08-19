@@ -43,7 +43,7 @@ pequenos de JavaScript puro, cada um com a página no ar.
 ### Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michxcrz/)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mich-cruz-portfolio.vercel.app/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge)](https://michellycruz.com.br/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michxcrz@gmail.com)
 
 <!-- Guardados aqui caso queira de volta:
