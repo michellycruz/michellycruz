@@ -1,11 +1,10 @@
 ## Oi, pode me chamar de Mich
 
-Analista de sistemas em Serra, ES. Trabalho com **Go** no backend e **React + TypeScript**
-no front, hoje principalmente em **checkout, cobrança e integrações**..
+Analista de sistemas em Serra, ES.
 
 ### Projetos
 
-**[portfolio-v2](https://github.com/michellycruz/portfolio-v2)** — `React` `TypeScript` `Tailwind` `Go`
+**[portfolio-v3](https://github.com/michellycruz/portfolio-v3)** — `React` `TypeScript` `Tailwind` `Go`
 Portfólio reconstruído do zero com frontend em React + TypeScript e backend próprio em Go,
 com envio de contato por SMTP.
 
